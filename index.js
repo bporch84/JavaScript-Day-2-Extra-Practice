@@ -7,6 +7,9 @@ TASK 1 🚀
 // The customer would like to see the topping options, console log out each of the toppings one by one in the array above 
 */
 
+for (let i = 0; i < toppings.length; i++) {
+    console.log(toppings[i])
+}
 
 /*
 TASK 2 🚀
